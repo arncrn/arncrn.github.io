@@ -1,0 +1,44 @@
+html {
+  background-color: #3FEEE6;
+}
+
+#top {
+  background-color: #3FEEE6;
+}
+
+#middle {
+  background-color: #FC4445;
+}
+
+#bottom {
+  background-color: #97CAEF
+  /* background-color: #55BCC9; */
+}
+
+footer {
+  background-color: #55BCC9
+  /* background-color: #97CAEF; */
+}
+
+.mini-logo {
+  max-width: 10%;
+}
+
+h5 {
+  text-align: center;
+}
+
+#github, #linkedin {
+  max-height: 3rem;
+}
+#resume {
+  max-height: 3.8rem;
+}
+
+figure {
+  max-width: 50%
+}
+
+p, h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
+}
